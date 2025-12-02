@@ -9,7 +9,7 @@
 
 ## 本地运行说明
 
-在本地开发或测试时，您只需确保 Node.js 环境已安装（建议版本 18 或以上）。克隆项目后，将 `index.txt` 重命名为 `index.html`，并将其与 `server.js` 放在同一目录下。安装依赖后，配置 API Key 并启动服务即可。
+在本地开发或测试时，您只需确保 Node.js 环境已安装（建议版本 18 或以上）。克隆项目后，将 `index.html`与 `server.js` 放在同一目录下。安装依赖后，配置 API Key 并启动服务即可。本地测试需修改`index.html`中635行域名为localhost
 
 ### Windows 系统配置方法
 
